@@ -3,7 +3,7 @@ It's a simple login UI for a website. It make with basic html and css code.
 # GitHub Page
 https://hrshammo.github.io/website-login-UI/
 # Interface
-Login
+<h2> Login </h2>
 ![Screenshot 2021-11-19 115428](https://user-images.githubusercontent.com/76872754/142572565-b4369eda-57eb-4364-80f7-f408d263137a.png)
 Forgot Password
 ![Screenshot 2021-11-19 115605](https://user-images.githubusercontent.com/76872754/142572657-03860033-dbd1-42fc-99ff-9c54d9fbe0a0.png)
